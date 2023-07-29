@@ -1,0 +1,7 @@
+0 HAPPY
+1 SAD
+2 TIRED
+3 Suspicious
+4 Contemplation
+5 Scared
+6 Background
